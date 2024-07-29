@@ -16,6 +16,9 @@ API Integration: The app uses APIs to fetch real-time data for restaurant listin
 This project demonstrates a full-fledged food delivery solution built with modern web technologies, showcasing proficiency in React.js and API integration to create a dynamic and user-friendly application.
 
 
+![Screenshot (148)](https://github.com/user-attachments/assets/f626ff82-a9b8-47ee-b59d-4d65527e65c1)
+
+
 ## Tech Stack
 React.js: A powerful JavaScript library for building user interfaces, React.js was used to create dynamic and responsive components for the app.
 
@@ -57,4 +60,6 @@ Phase 4: Deployment
 Phase 5: Post-Launch
 
 Phase 6: Future Development
+
+
 
