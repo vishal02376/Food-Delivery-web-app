@@ -1,9 +1,14 @@
 
 # Food Delivery Web App
+Link:-  https://quic-kbite.netlify.app/
 
 The Food Delivery Web App is a comprehensive platform designed to provide users with an easy and efficient way to order food online. Developed using React.js for the frontend, the application integrates seamlessly with various APIs to deliver a rich user experience. Key features of the app include browsing through a wide range of restaurants, viewing detailed menus, and placing orders directly from the interface.
 
-![Screenshot (148)](https://github.com/user-attachments/assets/f626ff82-a9b8-47ee-b59d-4d65527e65c1)
+![Screenshot (58)](https://github.com/user-attachments/assets/492da4b0-f388-48bd-abbc-4c14b3d39ffc)
+
+![WhatsApp Image 2024-12-20 at 3 53 14 PM](https://github.com/user-attachments/assets/0468456c-3ad6-46c9-88d0-c11c631d2a37)
+
+
 
 Key Features:
 
@@ -20,7 +25,12 @@ This project demonstrates a full-fledged food delivery solution built with moder
 
 
 
-![Screenshot (149)](https://github.com/user-attachments/assets/64edabc9-c68e-4def-96fc-3c6b9594d0d4)
+![Screenshot (59)](https://github.com/user-attachments/assets/5c3af587-d017-4553-bde6-f1dcde474678)
+
+
+![WhatsApp Image 2024-12-20 at 3 55 44 PM](https://github.com/user-attachments/assets/81a5f4c0-20c4-4db5-b9ca-1c2080d5cefb)
+
+
 
 ## Tech Stack
 React.js: A powerful JavaScript library for building user interfaces, React.js was used to create dynamic and responsive components for the app.
@@ -35,7 +45,8 @@ React Router: For managing navigation and routing within the application.
 
 Axios: A promise-based HTTP client used to make API requests and handle responses
 
-![Screenshot (151)](https://github.com/user-attachments/assets/afe33a22-eb5e-4b9f-8ebb-5df9644c5a28)
+![Screenshot (60)](https://github.com/user-attachments/assets/ef6c0189-cbd2-46e4-8d4a-29eafab6466c)
+
 
 
 ## Features
@@ -52,7 +63,8 @@ Axios: A promise-based HTTP client used to make API requests and handle response
 - Order Tracking
 - Favorites and History
 
-![Screenshot (152)](https://github.com/user-attachments/assets/6fcf2f8b-b61d-41e6-8a5f-ceb3d76197cb)
+![Screenshot (61)](https://github.com/user-attachments/assets/df64b6eb-7a7d-46b2-a8c5-6235f3942131)
+
 
 ## Roadmap
 
@@ -71,5 +83,7 @@ Phase 6: Future Development
 
 
 
-![Screenshot (153)](https://github.com/user-attachments/assets/73074c25-0a6e-4fcd-b25c-fa8617287cea)
-![Screenshot (154)](https://github.com/user-attachments/assets/ecf18aff-d9a3-4632-bab7-6b8d84477b9a)
+![Screenshot (62)](https://github.com/user-attachments/assets/1b119b1a-15dd-45ed-b16d-c81f5f5457e4)
+
+![Screenshot (63)](https://github.com/user-attachments/assets/2c538517-2a2d-4489-be59-9df91e26f23f)
+
